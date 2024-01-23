@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YesKayBee19/saikrishna.git/static/css/main.7ef4ac58.css",
-    "main.js": "/YesKayBee19/saikrishna.git/static/js/main.11a17c91.js",
+    "main.js": "/YesKayBee19/saikrishna.git/static/js/main.bd762bc6.js",
     "static/media/IMG_1747-modified.png": "/YesKayBee19/saikrishna.git/static/media/IMG_1747-modified.914e3509618d466bbba3.png",
     "static/media/Screenshot 2023-12-06 114529.png": "/YesKayBee19/saikrishna.git/static/media/Screenshot 2023-12-06 114529.ae5406b4953195aa7cdd.png",
     "index.html": "/YesKayBee19/saikrishna.git/index.html",
     "main.7ef4ac58.css.map": "/YesKayBee19/saikrishna.git/static/css/main.7ef4ac58.css.map",
-    "main.11a17c91.js.map": "/YesKayBee19/saikrishna.git/static/js/main.11a17c91.js.map"
+    "main.bd762bc6.js.map": "/YesKayBee19/saikrishna.git/static/js/main.bd762bc6.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef4ac58.css",
-    "static/js/main.11a17c91.js"
+    "static/js/main.bd762bc6.js"
   ]
 }
